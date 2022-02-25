@@ -30,7 +30,7 @@
           }
         },
         "post": {
-            "summary": "Prints Hello world",
+            "summary": "Prints Hello- world",
             "operationId": "printHelloWorld",
             "tags": [
                 "hello-world"
