@@ -15,10 +15,10 @@
     "paths": {
       "/helloWorld": {
         "get": {
-          "summary": "List all pets",
-          "operationId": "listPets",
+          "summary": "Prints Hello world",
+          "operationId": "printHelloWorld",
           "tags": [
-            "pets"
+            "hello-world"
           ],
           "responses": {
             "200": {
@@ -30,10 +30,10 @@
           }
         },
         "post": {
-            "summary": "List all pets",
-            "operationId": "listPets",
+            "summary": "Prints Hello world",
+            "operationId": "printHelloWorld",
             "tags": [
-              "pets"
+                "hello-world"
             ],
             "responses": {
               "200": {
