@@ -18,7 +18,7 @@
           "summary": "Prints Hello world",
           "operationId": "printHelloWorld",
           "tags": [
-            "hello-world"
+            "hello---world"
           ],
           "responses": {
             "200": {
